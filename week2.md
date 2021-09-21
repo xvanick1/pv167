@@ -1,21 +1,19 @@
-**PV167 - Week 2**
+***PV167 - Week 2***
 
 **Accountability – Accountability pattern**
 
-autor, co-autor autor privdava/odobera spoluautora.
-
+Projek ma svojho autora, ktory moze pridavat a nasledne odoberat pripadnych spoluautrov projektu (max 5). Spoluautor projektu sa moze z projektu jedine odobrat. Obe typy kolaboratorov musia byt registrovanymi uzivatelmi.
 
 
 
 **Observations and Measurements – Conversion Ratio pattern**
 
-cena pre premium acc sa odvija na zaklade konv. kurzu meny krajiny v ktorej služba sídli a meny v krajine v ktorej uzivateľ premiovy acc. kupuje.
+Cena pre premium ucet sa odvija na zaklade konverzneho kurzu meny krajiny v ktorej firma poskytujuca sluzbu sídli a meny v krajine v ktorej uzivateľ premiovy ucet kupuje.
 
-Uzivatel si može zakupit premium na urcity počet dni kt. nieje preddefinovany systemom.
-
+Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovany systemom.
 
 
 
 **Observations for Corporate Finance – Enterprise Segment pattern**
 
-Kazdy projekt ma vyvojarsku a produkcnu verziu. Kazda z nich je identifikovana unikatnym ID kt. je inkrementovane.
+Projekt sa sklada z vyvojarskej a produkcnej varianty. Kazda z nich je identifikovana unikatnym číselným ID - verziou, ktora je v priebehu vyvoja systemu inkrementovana.
