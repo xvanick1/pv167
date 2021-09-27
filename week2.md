@@ -4,6 +4,8 @@
 
 Projek ma svojho autora, ktory moze pridavat a nasledne odoberat pripadnych spoluautrov projektu (max 5). Spoluautor projektu sa moze z projektu jedine odobrat. Obe typy kolaboratorov musia byt registrovanymi uzivatelmi.
 
+- upraviť (pridať ešte jeden)
+
 
 
 **Observations and Measurements – Conversion Ratio pattern**
@@ -20,6 +22,7 @@ Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovan
 
 Projekt sa sklada z vyvojarskej a produkcnej varianty. Kazda z nich je identifikovana unikatnym číselným ID - verziou, ktora je v priebehu vyvoja systemu inkrementovana.
 
+- pridať elementy (autor, metriky/verzie, jazyk/y)
 
 
 **Inventory and accounting - **
