@@ -8,6 +8,8 @@ Projek ma svojho autora, ktory moze pridavat a nasledne odoberat pripadnych spol
 
 **Observations and Measurements – Conversion Ratio pattern**
 
+- zmeniť na metriky
+
 Cena pre premium ucet sa odvija na zaklade konverzneho kurzu meny krajiny v ktorej firma poskytujuca sluzbu sídli a meny v krajine v ktorej uzivateľ premiovy ucet kupuje.
 
 Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovany systemom.
@@ -17,3 +19,13 @@ Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovan
 **Observations for Corporate Finance – Enterprise Segment pattern**
 
 Projekt sa sklada z vyvojarskej a produkcnej varianty. Kazda z nich je identifikovana unikatnym číselným ID - verziou, ktora je v priebehu vyvoja systemu inkrementovana.
+
+
+
+**Inventory and accounting - **
+TBD
+
+
+
+**Planning - **
+TBD
