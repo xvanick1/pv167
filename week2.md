@@ -30,5 +30,5 @@ Z pohľadu uživateľa systému možme projekty identifikovať na základe verzi
 Použivatelia majú možnosť si zaplatiť premium, zostatok premia je udržovaný na účte. Ku každému účtu je uchovávaný zoznam transakcií o nákupe prémia tj. doba na ktoru je premium kupovane, kedy bola transakcia realizovaná a začiatok platnosti premia.
 
 
-**Planning - **
-TBD
+**Planning - Completed and Abandoned Actions pattern**
+Rozšíření systému, které pravidelně periodicky vykonává nad všemi projektu analýzu zranitelnosti. Akce tedy spočívá v potvrzení, že projekt neobsahuje žádné známé zranitelnosti. Provádí se tak, že se získají data z CVE (Common Vulnerabilities and Exposures). Pokud není v projektu zjištěna žádná zranitelnost, pak je akce uznačena za úspěšnou. Pokud je však nalezena zranitelnost v kódu (například použitá knihovna obsahuje nově nalezenou bezpečnostní chybu), pak je akce označena za neúspěšnou a je odeslána notifikace popisující danou zranitelnost.
