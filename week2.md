@@ -10,24 +10,24 @@ Projek ma svojho autora, ktory moze pridavat a nasledne odoberat pripadnych spol
 
 **Observations and Measurements – Conversion Ratio pattern**
 
-- zmeniť na metriky
+1.
+  Cena pre premium ucet sa odvija na zaklade konverzneho kurzu meny krajiny v ktorej firma poskytujuca sluzbu sídli a meny v krajine v ktorej uzivateľ premiovy ucet kupuje.
 
-Cena pre premium ucet sa odvija na zaklade konverzneho kurzu meny krajiny v ktorej firma poskytujuca sluzbu sídli a meny v krajine v ktorej uzivateľ premiovy ucet kupuje.
+  Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovany systemom.
 
-Uzivatel si može zakupit premium na urcity počet dni ktory nieje preddefinovany systemom.
-
-
+2. 
+  Na základe atribútov výsledkov analýzi je možné napríklad vypočítať odhadovaný čas (v človekohodinách) na opravenie problémov získaných z výsledkov analýzi a prehodnotenie úloh do budúceho vývoja. Z metrík môžme na základe riadkov kódu danej verzie získať rozsah zmien výkonaných v danej verzií, na základe chýb určiť kvalitu danej verzie projektu či veľkosť budúceho rozpočtu.
+  
 
 **Observations for Corporate Finance – Enterprise Segment pattern**
 
-Projekt sa sklada z vyvojarskej a produkcnej varianty. Kazda z nich je identifikovana unikatnym číselným ID - verziou, ktora je v priebehu vyvoja systemu inkrementovana.
-
-- pridať elementy (autor, metriky/verzie, jazyk/y)
+Z pohľadu uživateľa systému možme projekty identifikovať na základe verzie, autora či použitého programovacieho jazyku/jazykou. Za základe týchto elementov dimenzie môžme objekty rozpoznávať, rozdelovať či zlučovať.
 
 
 **Inventory and accounting - **
-TBD
 
+
+Použivatelia majú možnosť si zaplatiť premium, zostatok premia je udržovaný na účte. Ku každému účtu je uchovávaný zoznam transakcií o nákupe prémia tj. doba na ktoru je premium kupovane, kedy bola transakcia realizovaná a začiatok platnosti premia.
 
 
 **Planning - **
