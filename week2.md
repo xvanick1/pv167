@@ -24,7 +24,7 @@ Projek ma svojho autora, ktory moze pridavat a nasledne odoberat pripadnych spol
 Z pohľadu uživateľa systému možme projekty identifikovať na základe verzie, autora či použitého programovacieho jazyku/jazykou. Za základe týchto elementov dimenzie môžme objekty rozpoznávať, rozdelovať či zlučovať.
 
 
-**Inventory and accounting - **
+**Inventory and accounting**
 
 
 Použivatelia majú možnosť si zaplatiť premium, zostatok premia je udržovaný na účte. Ku každému účtu je uchovávaný zoznam transakcií o nákupe prémia tj. doba na ktoru je premium kupovane, kedy bola transakcia realizovaná a začiatok platnosti premia.
