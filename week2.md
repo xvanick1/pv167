@@ -31,3 +31,6 @@ Použivatelia majú možnosť si zaplatiť premium, zostatok premia je udržovan
 
 
 Rozšíření systému, které pravidelně periodicky vykonává nad všemi projekty analýzu zranitelnosti. Akce tedy spočívá v potvrzení, že projekt neobsahuje žádné známé zranitelnosti. Provádí se tak, že se získají data z CVE (Common Vulnerabilities and Exposures). Pokud není v projektu zjištěna žádná zranitelnost, pak je akce označena za úspěšnou. Pokud je však nalezena zranitelnost v kódu (například použitá knihovna obsahuje nově nalezenou bezpečnostní chybu), pak je akce označena za neúspěšnou a je odeslána notifikace popisující danou zranitelnost.
+
+
+Do budúcna urobiť: planning + enterprise segment a accounting
