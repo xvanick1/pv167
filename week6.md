@@ -1,14 +1,22 @@
 1. singleton
-- user/project manager
+- trieda spravujúca (vytvaranie, evidencia, rušenie) uživateľov v systéme
+a/alebo
+- trieda pre správu jednotlivých projektov v systéme, opäť vytvaranie, evidencia, rušenie
 
 2. builder
-- metriky / configuracia
+- použitie pri vytváraní konfigúrácie jednotlivých analýz
+a/alebo
+- pre vytvorenie zložených metrík 
 
 3. composite
-- projekt a jeho verzie
+- použite pre reprezentovanie štruktúry projetku repsektíve jeho verzíí 
 
 4. adapter
-- ext. platobna brana / login cez system 3 strany
+- použitie pri platbe cez externú platobnu bránu resp. službu 
+a/alebo
+- pri prihalsovaní alebo registrácií použivateľa cez systém tretej strany
 
 5. strategy
--  cena za premium / klasifikacia projektu
+- trieda reprezentujúca klasifikáciu projektu na základe jednotlivých parametrov (prog. jazyk, autor, atď.)
+a/alebo
+-  rôzne ceny za prémiový učet
