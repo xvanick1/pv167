@@ -14,5 +14,5 @@
 - pri prihalsovaní alebo registrácií použivateľa cez systém tretej strany
 
 5. strategy
-- trieda reprezentujúca klasifikáciu projektu na základe jednotlivých parametrov (prog. jazyk, autor, atď.)
+ pičovina -> trieda reprezentujúca klasifikáciu projektu na základe jednotlivých parametrov (prog. jazyk, autor, atď.)
 -  rôzne ceny za prémiový učet
